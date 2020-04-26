@@ -1,0 +1,93 @@
+body {
+  background-color: #000000;
+  background-image: url(../images/escheresque-dark.png);
+}
+.banner-bg {
+  width: 100%;
+  background: url(../images/header-bg-dark.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.title {
+  color: #fafafa;
+}
+.title h3 {
+  font-size: 32px;
+  color: #bdbdbd;
+}
+.bg {
+  background: #212121;
+}
+hr {
+  border-bottom: 0.5px dashed #424242;
+}
+.c-title, .c-body {
+  color: #f5f5f5;
+}
+.c-title h4 {
+  color: #f5f5f5;
+}
+.ch {
+  background: #424242;
+}
+.footer {
+  background: #212121;
+}
+.dua {
+  color: #f5f5f5;
+  background: #000;
+}
+.cit {
+  color: #f5f5f5;
+}
+.cit p a {
+  color: #f5f5f5;
+}
+.copyright {
+  background: #212121;
+  color: #f5f5f5;
+  border-top: 1px solid #424242;
+}
+.copyright a {
+  color: #f5f5f5;
+}
+.copyright a:hover {
+  color: #1eff00;
+}
+.btn {
+  background: #424242;
+}
+.btn a {
+  color: #f5f5f5;
+}
+.btn:hover {
+  background: #f5f5f5;
+}
+.btn:hover > a {
+  color: #424242;
+}
+.dwn-btn {
+  padding: 5px 25px;
+  border-radius: 25px;
+  background: #424242;
+  position: absolute;
+  top: 70px;
+  right: 20px;
+  transition: all linear 300ms;
+
+}
+.dwn-btn a {
+  color: #f5f5f5;
+  text-transform: uppercase;
+  transition: all linear 300ms;
+}
+.dwn-btn:hover {
+  background: #000;
+  border: 1px solid #1eff00;
+}
+.dwn-btn:hover > a {
+
+  color: #f5f5f5;
+  font-weight: 700;
+  font-size: 16px;
+}
